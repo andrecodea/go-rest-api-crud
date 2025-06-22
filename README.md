@@ -50,7 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 ## 👨‍💻 Author
 ### André Codea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230570a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andrecodea/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andrecodea)
-
-## API Endpoints
-
-(You can add details about your API endpoints here) 
